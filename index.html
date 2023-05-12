@@ -14,8 +14,10 @@
     <script type="module">
         import { searchCar } from "./js/script.js";
         import { orderby } from "./js/script.js";
+        import { switchAttrs } from "./js/script.js";
         window.searchCar = searchCar;
         window.orderby = orderby;
+        window.switchAttrs = switchAttrs;
     </script>
 
 
@@ -23,7 +25,7 @@
 </head>
 <body>
 
-  <nav class="navbar sticky-top">
+  <nav class="navbar fixed-top">
     <div class="container-fluid">
       <a class="navbar-brand" href="index.html">Midnight Club 3 Database</a>
       <a href="https://github.com/carlosneto726/mdc3der-database.github.io"><img src="img/icons/github.svg" class="d-flex"></a>
@@ -54,6 +56,7 @@
             </button>
             
             <ul class="dropdown-menu">
+              <li><a class="dropdown-item" type="submit" name="padrao" onclick="orderby(this)">Ordem padrão</a></li>
               <li><a class="dropdown-item" type="submit" name="alfa" onclick="orderby(this)">Ordem alfabética</a></li>
               <li><a class="dropdown-item" type="submit" name="preco" onclick="orderby(this)">Preço</a></li>
               <li><a class="dropdown-item" type="submit" name="classe" onclick="orderby(this)">Classe</a></li>
@@ -73,43 +76,39 @@
         Atributos
     
         <div class="form-check form-switch">
-            <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="preco">
-            <label class="form-check-label">Preço</label>
+          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="preco">
+          <label class="form-check-label">Preço</label>
         </div>
         <div class="form-check form-switch">
-            <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="velocidade">
-            <label class="form-check-label">Classe / Tipo</label>
+          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="classe-tipo">
+          <label class="form-check-label">Classe / Tipo</label>
         </div>
         <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="fabricante">
+          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="marca">
           <label class="form-check-label">Marca</label>
-      </div>
-        <div class="form-check form-switch">
-            <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="cavalos">
-            <label class="form-check-label">Aceleração</label>
         </div>
         <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="fabricante">
+          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="aceleracao-padrao">
           <label class="form-check-label">Aceleração padrão</label>
         </div>
         <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="fabricante">
+          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="aceleracao-modificada">
           <label class="form-check-label">Aceleração modificada</label>
         </div>
         <div class="form-check form-switch">
-            <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="zeroacem">
-            <label class="form-check-label">Velocidade máxima</label>
+          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="velocidade-padrao">
+          <label class="form-check-label">Velocidade máxima padrão</label>
         </div>
         <div class="form-check form-switch">
-            <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="quantidade">
-            <label class="form-check-label">Velocidade máxima modificada</label>
+          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="velocidade-modificada">
+          <label class="form-check-label">Velocidade máxima modificada</label>
         </div>
         <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="fabricante">
+          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="manuseio-padrao">
           <label class="form-check-label">Manuseio padrão</label>
         </div>
         <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="fabricante">
+          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="manuseio-modificado">
           <label class="form-check-label">Manuseio modificado</label>
         </div>
   
@@ -118,6 +117,22 @@
     <div class="container" id="container">
     </div>
   </div>
+
+
+  <nav aria-label="Page navigation example mb-5">
+    <ul class="pagination justify-content-center mt-5">
+      <li class="page-item disabled">
+        <a class="page-link">Previous</a>
+      </li>
+      <li class="page-item"><a class="page-link" href="#">1</a></li>
+      <li class="page-item"><a class="page-link" href="#">2</a></li>
+      <li class="page-item"><a class="page-link" href="#">3</a></li>
+      <li class="page-item">
+        <a class="page-link" href="#">Next</a>
+      </li>
+    </ul>
+  </nav>
+
 
   <footer>
     <div class="z-3 card mt-5">
