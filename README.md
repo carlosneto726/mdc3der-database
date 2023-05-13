@@ -24,12 +24,9 @@
 <!-- Sobre o projeto -->
 ## Sobre o projeto
 
-[![screenshot][screenshot]](https://carlosneto726.github.io/mdc3der-database.github.io/)
+[![example][gif]](https://carlosneto726.github.io/mdc3der-database.github.io/)
 
 `carlosneto726`, `mdc3der-database.github.io`, `Midnight Club 3 Databse`, `Site com todos os carros do Midnight Club 3: DUB Edition Remix`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- Feito com -->
 ### Feito com
@@ -53,7 +50,7 @@ Distribuido sobre a licença MIT. Veja `LICENSE` para mais informações.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Links -->
-[screenshot]: img/screenshot.png
+[gif]: img/example.gif
 [HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://pt.wikipedia.org/wiki/HTML
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
