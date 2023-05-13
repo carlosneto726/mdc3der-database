@@ -12,7 +12,6 @@ body{
     color: white;
 }
 
-
 .card{
     background-color: #161821;
     color: white;
@@ -38,4 +37,7 @@ body{
     border-radius: 10px;
 }
 
-.sticky-top { top: 5em; }
+.sticky-top { 
+    top: 5em; 
+}
+

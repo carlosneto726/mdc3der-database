@@ -44,20 +44,21 @@
       <div class="align-self-start">
   
         <div class="d-flex">
-            <input class="form-control me-2" id="search" type="search" placeholder="Procurar por um carro" aria-label="Search">
+            <input class="form-control me-2" id="search" type="search" placeholder="Procurar" aria-label="Search">
             <button class="btn btn-outline-success" type="submit" onclick="searchCar()"><img src="img/icons/search.svg"></button>
         </div>
     
         <br/>
     
         <div class="dropdown">
-            <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <button class="btn btn-secondary dropdown-toggle" id="ordernar-btn" type="button" data-bs-toggle="dropdown" aria-expanded="false">
               Ordernar por
             </button>
             
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" type="submit" name="padrao" onclick="orderby(this)">Ordem padrão</a></li>
               <li><a class="dropdown-item" type="submit" name="alfa" onclick="orderby(this)">Ordem alfabética</a></li>
+              <li><a class="dropdown-item" type="submit" name="marca" onclick="orderby(this)">Marca</a></li>
               <li><a class="dropdown-item" type="submit" name="preco" onclick="orderby(this)">Preço</a></li>
               <li><a class="dropdown-item" type="submit" name="classe" onclick="orderby(this)">Classe</a></li>
               <li><a class="dropdown-item" type="submit" name="tipo" onclick="orderby(this)">Tipo</a></li>
@@ -74,11 +75,7 @@
         <br/>
     
         Atributos
-    
-        <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="preco">
-          <label class="form-check-label">Preço</label>
-        </div>
+
         <div class="form-check form-switch">
           <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="classe-tipo">
           <label class="form-check-label">Classe / Tipo</label>
@@ -86,6 +83,10 @@
         <div class="form-check form-switch">
           <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="marca">
           <label class="form-check-label">Marca</label>
+        </div>
+        <div class="form-check form-switch">
+          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="preco">
+          <label class="form-check-label">Preço</label>
         </div>
         <div class="form-check form-switch">
           <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="aceleracao-padrao">
@@ -117,21 +118,6 @@
     <div class="container" id="container">
     </div>
   </div>
-
-
-  <nav aria-label="Page navigation example mb-5">
-    <ul class="pagination justify-content-center mt-5">
-      <li class="page-item disabled">
-        <a class="page-link">Previous</a>
-      </li>
-      <li class="page-item"><a class="page-link" href="#">1</a></li>
-      <li class="page-item"><a class="page-link" href="#">2</a></li>
-      <li class="page-item"><a class="page-link" href="#">3</a></li>
-      <li class="page-item">
-        <a class="page-link" href="#">Next</a>
-      </li>
-    </ul>
-  </nav>
 
 
   <footer>

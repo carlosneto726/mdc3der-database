@@ -12,8 +12,7 @@
         "remix": "1",
         "tuned_aceleration": "23.8",
         "tuned_speed": "49.7",
-        "tuned_handling": "51.2",
-        "car_img": ""
+        "tuned_handling": "51.2"
     },
     {
         "id": "2",
@@ -28,8 +27,7 @@
         "remix": "0",
         "tuned_aceleration": "23.2",
         "tuned_speed": "53.2",
-        "tuned_handling": "49.7",
-        "car_img": ""
+        "tuned_handling": "49.7"
     },
     {
         "id": "3",
@@ -44,8 +42,7 @@
         "remix": "0",
         "tuned_aceleration": "22",
         "tuned_speed": "51.7",
-        "tuned_handling": "45",
-        "car_img": ""
+        "tuned_handling": "45"
     },
     {
         "id": "4",
@@ -60,8 +57,7 @@
         "remix": "0",
         "tuned_aceleration": "28.1",
         "tuned_speed": "55.2",
-        "tuned_handling": "55.2",
-        "car_img": ""
+        "tuned_handling": "55.2"
     },
     {
         "id": "5",
@@ -76,8 +72,7 @@
         "remix": "0",
         "tuned_aceleration": "27.7",
         "tuned_speed": "53.9",
-        "tuned_handling": "56.7",
-        "car_img": ""
+        "tuned_handling": "56.7"
     },
     {
         "id": "6",
@@ -92,8 +87,7 @@
         "remix": "1",
         "tuned_aceleration": "27.2",
         "tuned_speed": "53.9",
-        "tuned_handling": "56",
-        "car_img": ""
+        "tuned_handling": "56"
     },
     {
         "id": "7",
@@ -108,8 +102,7 @@
         "remix": "0",
         "tuned_aceleration": "29.5",
         "tuned_speed": "55.2",
-        "tuned_handling": "58.2",
-        "car_img": ""
+        "tuned_handling": "58.2"
     },
     {
         "id": "8",
@@ -124,8 +117,7 @@
         "remix": "0",
         "tuned_aceleration": "19.1",
         "tuned_speed": "50.4",
-        "tuned_handling": "33.5",
-        "car_img": ""
+        "tuned_handling": "33.5"
     },
     {
         "id": "9",
@@ -140,8 +132,7 @@
         "remix": "0",
         "tuned_aceleration": "23.3",
         "tuned_speed": "53.9",
-        "tuned_handling": "37.2",
-        "car_img": ""
+        "tuned_handling": "37.2"
     },
     {
         "id": "10",
@@ -156,8 +147,7 @@
         "remix": "0",
         "tuned_aceleration": "22.5",
         "tuned_speed": "57.5",
-        "tuned_handling": "35.2",
-        "car_img": ""
+        "tuned_handling": "35.2"
     },
     {
         "id": "11",
@@ -172,8 +162,7 @@
         "remix": "0",
         "tuned_aceleration": "13.5",
         "tuned_speed": "37.5",
-        "tuned_handling": "28.2",
-        "car_img": ""
+        "tuned_handling": "28.2"
     },
     {
         "id": "12",
@@ -188,8 +177,7 @@
         "remix": "1",
         "tuned_aceleration": "26.5",
         "tuned_speed": "53.9",
-        "tuned_handling": "53.5",
-        "car_img": ""
+        "tuned_handling": "53.5"
     },
     {
         "id": "13",
@@ -204,8 +192,7 @@
         "remix": "0",
         "tuned_aceleration": "28.2",
         "tuned_speed": "51.7",
-        "tuned_handling": "56.7",
-        "car_img": ""
+        "tuned_handling": "56.7"
     },
     {
         "id": "14",
@@ -220,8 +207,7 @@
         "remix": "1",
         "tuned_aceleration": "32.7",
         "tuned_speed": "56.7",
-        "tuned_handling": "55.2",
-        "car_img": ""
+        "tuned_handling": "55.2"
     },
     {
         "id": "15",
@@ -236,13 +222,12 @@
         "remix": "0",
         "tuned_aceleration": "26.2",
         "tuned_speed": "55.2",
-        "tuned_handling": "55.5",
-        "car_img": ""
+        "tuned_handling": "55.5"
     },
     {
         "id": "16",
         "name": "CTS-V",
-        "brand_id": "1",
+        "brand_id": "10",
         "class": "CLASS D",
         "type": "LUXURY SEDANS",
         "price": "54495",
@@ -252,8 +237,7 @@
         "remix": "0",
         "tuned_aceleration": "31",
         "tuned_speed": "58.9",
-        "tuned_handling": "59",
-        "car_img": ""
+        "tuned_handling": "59"
     },
     {
         "id": "17",
@@ -268,8 +252,7 @@
         "remix": "1",
         "tuned_aceleration": "34.5",
         "tuned_speed": "61.7",
-        "tuned_handling": "57.5",
-        "car_img": ""
+        "tuned_handling": "57.5"
     },
     {
         "id": "18",
@@ -284,8 +267,7 @@
         "remix": "0",
         "tuned_aceleration": "35",
         "tuned_speed": "64.5",
-        "tuned_handling": "60.7",
-        "car_img": ""
+        "tuned_handling": "60.7"
     },
     {
         "id": "19",
@@ -300,8 +282,7 @@
         "remix": "0",
         "tuned_aceleration": "39",
         "tuned_speed": "62.4",
-        "tuned_handling": "54",
-        "car_img": ""
+        "tuned_handling": "54"
     },
     {
         "id": "20",
@@ -316,8 +297,7 @@
         "remix": "0",
         "tuned_aceleration": "32.9",
         "tuned_speed": "68",
-        "tuned_handling": "58.2",
-        "car_img": ""
+        "tuned_handling": "58.2"
     },
     {
         "id": "21",
@@ -332,8 +312,7 @@
         "remix": "0",
         "tuned_aceleration": "43",
         "tuned_speed": "64.5",
-        "tuned_handling": "68",
-        "car_img": ""
+        "tuned_handling": "68"
     },
     {
         "id": "22",
@@ -348,8 +327,7 @@
         "remix": "0",
         "tuned_aceleration": "42",
         "tuned_speed": "68",
-        "tuned_handling": "65.8",
-        "car_img": ""
+        "tuned_handling": "65.8"
     },
     {
         "id": "23",
@@ -364,8 +342,7 @@
         "remix": "0",
         "tuned_aceleration": "33.2",
         "tuned_speed": "58.9",
-        "tuned_handling": "45.4",
-        "car_img": ""
+        "tuned_handling": "45.4"
     },
     {
         "id": "24",
@@ -380,8 +357,7 @@
         "remix": "1",
         "tuned_aceleration": "31.7",
         "tuned_speed": "59.5",
-        "tuned_handling": "36.4",
-        "car_img": ""
+        "tuned_handling": "36.4"
     },
     {
         "id": "25",
@@ -396,8 +372,7 @@
         "remix": "1",
         "tuned_aceleration": "31.7",
         "tuned_speed": "58.9",
-        "tuned_handling": "36.4",
-        "car_img": ""
+        "tuned_handling": "36.4"
     },
     {
         "id": "26",
@@ -412,8 +387,7 @@
         "remix": "0",
         "tuned_aceleration": "31.7",
         "tuned_speed": "63",
-        "tuned_handling": "34.4",
-        "car_img": ""
+        "tuned_handling": "34.4"
     },
     {
         "id": "27",
@@ -428,8 +402,7 @@
         "remix": "1",
         "tuned_aceleration": "35.5",
         "tuned_speed": "64.5",
-        "tuned_handling": "43",
-        "car_img": ""
+        "tuned_handling": "43"
     },
     {
         "id": "28",
@@ -444,8 +417,7 @@
         "remix": "0",
         "tuned_aceleration": "32.2",
         "tuned_speed": "64.5",
-        "tuned_handling": "41.9",
-        "car_img": ""
+        "tuned_handling": "41.9"
     },
     {
         "id": "29",
@@ -460,8 +432,7 @@
         "remix": "0",
         "tuned_aceleration": "34.4",
         "tuned_speed": "63.7",
-        "tuned_handling": "46.5",
-        "car_img": ""
+        "tuned_handling": "46.5"
     },
     {
         "id": "30",
@@ -476,13 +447,12 @@
         "remix": "0",
         "tuned_aceleration": "28.8",
         "tuned_speed": "62.4",
-        "tuned_handling": "26.2",
-        "car_img": ""
+        "tuned_handling": "26.2"
     },
     {
         "id": "31",
         "name": "CUEVITO",
-        "brand_id": "14",
+        "brand_id": "15",
         "class": "CLASS C",
         "type": "CHOPPERS",
         "price": "65000",
@@ -492,13 +462,12 @@
         "remix": "0",
         "tuned_aceleration": "53.7",
         "tuned_speed": "56",
-        "tuned_handling": "46.2",
-        "car_img": ""
+        "tuned_handling": "46.2"
     },
     {
         "id": "32",
         "name": "CFL",
-        "brand_id": "15",
+        "brand_id": "16",
         "class": "CLASS C",
         "type": "CHOPPERS",
         "price": "60000",
@@ -508,13 +477,12 @@
         "remix": "0",
         "tuned_aceleration": "58.2",
         "tuned_speed": "57.5",
-        "tuned_handling": "52",
-        "car_img": ""
+        "tuned_handling": "52"
     },
     {
         "id": "33",
         "name": "CHINGON",
-        "brand_id": "14",
+        "brand_id": "15",
         "class": "CLASS C",
         "type": "CHOPPERS",
         "price": "113000",
@@ -524,13 +492,12 @@
         "remix": "1",
         "tuned_aceleration": "53.7",
         "tuned_speed": "64.5",
-        "tuned_handling": "51.2",
-        "car_img": ""
+        "tuned_handling": "51.2"
     },
     {
         "id": "34",
         "name": "EL DIABLO SOFT TAIL",
-        "brand_id": "15",
+        "brand_id": "16",
         "class": "CLASS C",
         "type": "CHOPPERS",
         "price": "125000",
@@ -540,8 +507,7 @@
         "remix": "0",
         "tuned_aceleration": "55.9",
         "tuned_speed": "58.9",
-        "tuned_handling": "43",
-        "car_img": ""
+        "tuned_handling": "43"
     },
     {
         "id": "35",
@@ -556,8 +522,7 @@
         "remix": "1",
         "tuned_aceleration": "26",
         "tuned_speed": "51.7",
-        "tuned_handling": "42.2",
-        "car_img": ""
+        "tuned_handling": "42.2"
     },
     {
         "id": "36",
@@ -572,13 +537,12 @@
         "remix": "1",
         "tuned_aceleration": "25",
         "tuned_speed": "51.7",
-        "tuned_handling": "48.5",
-        "car_img": ""
+        "tuned_handling": "48.5"
     },
     {
         "id": "37",
         "name": "YUKON DENALI",
-        "brand_id": "16",
+        "brand_id": "17",
         "class": "CLASS C",
         "type": "SUV\/TRUCKS",
         "price": "51935",
@@ -588,8 +552,7 @@
         "remix": "1",
         "tuned_aceleration": "18.5",
         "tuned_speed": "49.7",
-        "tuned_handling": "44.2",
-        "car_img": ""
+        "tuned_handling": "44.2"
     },
     {
         "id": "38",
@@ -604,8 +567,7 @@
         "remix": "1",
         "tuned_aceleration": "16.6",
         "tuned_speed": "51.7",
-        "tuned_handling": "47",
-        "car_img": ""
+        "tuned_handling": "47"
     },
     {
         "id": "39",
@@ -620,8 +582,7 @@
         "remix": "0",
         "tuned_aceleration": "18.3",
         "tuned_speed": "51.7",
-        "tuned_handling": "46.2",
-        "car_img": ""
+        "tuned_handling": "46.2"
     },
     {
         "id": "40",
@@ -636,8 +597,7 @@
         "remix": "0",
         "tuned_aceleration": "18.3",
         "tuned_speed": "51.7",
-        "tuned_handling": "47",
-        "car_img": ""
+        "tuned_handling": "47"
     },
     {
         "id": "41",
@@ -652,13 +612,12 @@
         "remix": "0",
         "tuned_aceleration": "19.7",
         "tuned_speed": "49.7",
-        "tuned_handling": "46.2",
-        "car_img": ""
+        "tuned_handling": "46.2"
     },
     {
         "id": "42",
         "name": "G500",
-        "brand_id": "17",
+        "brand_id": "18",
         "class": "CLASS C",
         "type": "SUV\/TRUCKS",
         "price": "76000",
@@ -668,13 +627,12 @@
         "remix": "0",
         "tuned_aceleration": "22",
         "tuned_speed": "55.2",
-        "tuned_handling": "51.7",
-        "car_img": ""
+        "tuned_handling": "51.7"
     },
     {
         "id": "43",
         "name": "G55 AMG",
-        "brand_id": "17",
+        "brand_id": "18",
         "class": "CLASS C",
         "type": "SUV\/TRUCKS",
         "price": "114000",
@@ -684,8 +642,7 @@
         "remix": "0",
         "tuned_aceleration": "25.7",
         "tuned_speed": "62.4",
-        "tuned_handling": "51.2",
-        "car_img": ""
+        "tuned_handling": "51.2"
     },
     {
         "id": "44",
@@ -700,8 +657,7 @@
         "remix": "0",
         "tuned_aceleration": "26.7",
         "tuned_speed": "57.5",
-        "tuned_handling": "59.9",
-        "car_img": ""
+        "tuned_handling": "59.9"
     },
     {
         "id": "45",
@@ -716,8 +672,7 @@
         "remix": "1",
         "tuned_aceleration": "32.9",
         "tuned_speed": "58.2",
-        "tuned_handling": "56",
-        "car_img": ""
+        "tuned_handling": "56"
     },
     {
         "id": "46",
@@ -732,13 +687,12 @@
         "remix": "1",
         "tuned_aceleration": "33",
         "tuned_speed": "61",
-        "tuned_handling": "58.2",
-        "car_img": ""
+        "tuned_handling": "58.2"
     },
     {
         "id": "47",
         "name": "CL500",
-        "brand_id": "17",
+        "brand_id": "18",
         "class": "CLASS C",
         "type": "LUXURY SEDANS",
         "price": "94000",
@@ -748,8 +702,7 @@
         "remix": "0",
         "tuned_aceleration": "32.2",
         "tuned_speed": "64.5",
-        "tuned_handling": "59",
-        "car_img": ""
+        "tuned_handling": "59"
     },
     {
         "id": "48",
@@ -764,13 +717,12 @@
         "remix": "0",
         "tuned_aceleration": "30.6",
         "tuned_speed": "61.7",
-        "tuned_handling": "56",
-        "car_img": ""
+        "tuned_handling": "56"
     },
     {
         "id": "49",
         "name": "CL55 AMG",
-        "brand_id": "17",
+        "brand_id": "18",
         "class": "CLASS C",
         "type": "LUXURY SEDANS",
         "price": "141000",
@@ -780,8 +732,7 @@
         "remix": "0",
         "tuned_aceleration": "37.9",
         "tuned_speed": "69.5",
-        "tuned_handling": "60.4",
-        "car_img": ""
+        "tuned_handling": "60.4"
     },
     {
         "id": "50",
@@ -796,8 +747,7 @@
         "remix": "1",
         "tuned_aceleration": "38.7",
         "tuned_speed": "73",
-        "tuned_handling": "65",
-        "car_img": ""
+        "tuned_handling": "65"
     },
     {
         "id": "51",
@@ -812,8 +762,7 @@
         "remix": "0",
         "tuned_aceleration": "44.4",
         "tuned_speed": "78.6",
-        "tuned_handling": "69.3",
-        "car_img": ""
+        "tuned_handling": "69.3"
     },
     {
         "id": "52",
@@ -828,8 +777,7 @@
         "remix": "0",
         "tuned_aceleration": "44.5",
         "tuned_speed": "75.9",
-        "tuned_handling": "67.8",
-        "car_img": ""
+        "tuned_handling": "67.8"
     },
     {
         "id": "53",
@@ -844,8 +792,7 @@
         "remix": "0",
         "tuned_aceleration": "44.7",
         "tuned_speed": "80",
-        "tuned_handling": "71.6",
-        "car_img": ""
+        "tuned_handling": "71.6"
     },
     {
         "id": "54",
@@ -860,13 +807,12 @@
         "remix": "0",
         "tuned_aceleration": "65",
         "tuned_speed": "83",
-        "tuned_handling": "62.7",
-        "car_img": ""
+        "tuned_handling": "62.7"
     },
     {
         "id": "55",
         "name": "SR",
-        "brand_id": "18",
+        "brand_id": "19",
         "class": "CLASS B",
         "type": "TUNERS",
         "price": "174000",
@@ -876,13 +822,12 @@
         "remix": "0",
         "tuned_aceleration": "54.4",
         "tuned_speed": "82.3",
-        "tuned_handling": "71.3",
-        "car_img": ""
+        "tuned_handling": "71.3"
     },
     {
         "id": "56",
         "name": "04 MONSTER S4R",
-        "brand_id": "19",
+        "brand_id": "20",
         "class": "CLASS B",
         "type": "SPORT BIKES",
         "price": "13495",
@@ -892,13 +837,12 @@
         "remix": "0",
         "tuned_aceleration": "70.8",
         "tuned_speed": "76.5",
-        "tuned_handling": "74.9",
-        "car_img": ""
+        "tuned_handling": "74.9"
     },
     {
         "id": "57",
         "name": "04 SS1000",
-        "brand_id": "19",
+        "brand_id": "20",
         "class": "CLASS B",
         "type": "SPORT BIKES",
         "price": "10995",
@@ -908,13 +852,12 @@
         "remix": "0",
         "tuned_aceleration": "61.5",
         "tuned_speed": "75.1",
-        "tuned_handling": "80",
-        "car_img": ""
+        "tuned_handling": "80"
     },
     {
         "id": "58",
         "name": "PAUL SMART 1000",
-        "brand_id": "19",
+        "brand_id": "20",
         "class": "CLASS B",
         "type": "SPORT BIKES",
         "price": "13995",
@@ -924,8 +867,7 @@
         "remix": "1",
         "tuned_aceleration": "70.1",
         "tuned_speed": "87.1",
-        "tuned_handling": "81",
-        "car_img": ""
+        "tuned_handling": "81"
     },
     {
         "id": "59",
@@ -940,8 +882,7 @@
         "remix": "0",
         "tuned_aceleration": "43",
         "tuned_speed": "73",
-        "tuned_handling": "47.4",
-        "car_img": ""
+        "tuned_handling": "47.4"
     },
     {
         "id": "60",
@@ -956,8 +897,7 @@
         "remix": "0",
         "tuned_aceleration": "44.2",
         "tuned_speed": "70.1",
-        "tuned_handling": "51.2",
-        "car_img": ""
+        "tuned_handling": "51.2"
     },
     {
         "id": "61",
@@ -972,8 +912,7 @@
         "remix": "0",
         "tuned_aceleration": "47.7",
         "tuned_speed": "75.1",
-        "tuned_handling": "52.7",
-        "car_img": ""
+        "tuned_handling": "52.7"
     },
     {
         "id": "62",
@@ -988,8 +927,7 @@
         "remix": "1",
         "tuned_aceleration": "45.4",
         "tuned_speed": "70.9",
-        "tuned_handling": "54.7",
-        "car_img": ""
+        "tuned_handling": "54.7"
     },
     {
         "id": "63",
@@ -1004,13 +942,12 @@
         "remix": "0",
         "tuned_aceleration": "48.5",
         "tuned_speed": "76.5",
-        "tuned_handling": "57",
-        "car_img": ""
+        "tuned_handling": "57"
     },
     {
         "id": "64",
         "name": "SKULLY",
-        "brand_id": "14",
+        "brand_id": "15",
         "class": "CLASS B",
         "type": "CHOPPERS",
         "price": "65000",
@@ -1020,13 +957,12 @@
         "remix": "0",
         "tuned_aceleration": "66.3",
         "tuned_speed": "70.1",
-        "tuned_handling": "60",
-        "car_img": ""
+        "tuned_handling": "60"
     },
     {
         "id": "65",
         "name": "D ELEGANCE",
-        "brand_id": "14",
+        "brand_id": "15",
         "class": "CLASS B",
         "type": "CHOPPERS",
         "price": "80000",
@@ -1036,13 +972,12 @@
         "remix": "0",
         "tuned_aceleration": "68.5",
         "tuned_speed": "71.5",
-        "tuned_handling": "54.9",
-        "car_img": ""
+        "tuned_handling": "54.9"
     },
     {
         "id": "66",
         "name": "EL DIABLO RIGID",
-        "brand_id": "14",
+        "brand_id": "15",
         "class": "CLASS B",
         "type": "CHOPPERS",
         "price": "100000",
@@ -1052,13 +987,12 @@
         "remix": "0",
         "tuned_aceleration": "67.4",
         "tuned_speed": "70.9",
-        "tuned_handling": "47.4",
-        "car_img": ""
+        "tuned_handling": "47.4"
     },
     {
         "id": "67",
         "name": "V-LUX",
-        "brand_id": "14",
+        "brand_id": "15",
         "class": "CLASS B",
         "type": "CHOPPERS",
         "price": "125000",
@@ -1068,8 +1002,7 @@
         "remix": "1",
         "tuned_aceleration": "66.3",
         "tuned_speed": "70.9",
-        "tuned_handling": "57.2",
-        "car_img": ""
+        "tuned_handling": "57.2"
     },
     {
         "id": "68",
@@ -1084,8 +1017,7 @@
         "remix": "0",
         "tuned_aceleration": "32",
         "tuned_speed": "58.2",
-        "tuned_handling": "42.2",
-        "car_img": ""
+        "tuned_handling": "42.2"
     },
     {
         "id": "69",
@@ -1100,13 +1032,12 @@
         "remix": "0",
         "tuned_aceleration": "35.7",
         "tuned_speed": "61",
-        "tuned_handling": "46.2",
-        "car_img": ""
+        "tuned_handling": "46.2"
     },
     {
         "id": "70",
         "name": "GT 750",
-        "brand_id": "20",
+        "brand_id": "21",
         "class": "CLASS B",
         "type": "SUV TRUCKS",
         "price": "360000",
@@ -1116,13 +1047,12 @@
         "remix": "1",
         "tuned_aceleration": "41.5",
         "tuned_speed": "69.5",
-        "tuned_handling": "56.7",
-        "car_img": ""
+        "tuned_handling": "56.7"
     },
     {
         "id": "71",
         "name": "CLS55 AMG",
-        "brand_id": "17",
+        "brand_id": "18",
         "class": "CLASS B",
         "type": "LUXURY SEDANS",
         "price": "87320",
@@ -1132,13 +1062,12 @@
         "remix": "1",
         "tuned_aceleration": "31.1",
         "tuned_speed": "63",
-        "tuned_handling": "61",
-        "car_img": ""
+        "tuned_handling": "61"
     },
     {
         "id": "72",
         "name": "SL500",
-        "brand_id": "17",
+        "brand_id": "18",
         "class": "CLASS B",
         "type": "LUXURY SEDANS",
         "price": "90620",
@@ -1148,13 +1077,12 @@
         "remix": "0",
         "tuned_aceleration": "37.4",
         "tuned_speed": "76.5",
-        "tuned_handling": "64.5",
-        "car_img": ""
+        "tuned_handling": "64.5"
     },
     {
         "id": "73",
         "name": "SL55 AMG",
-        "brand_id": "17",
+        "brand_id": "18",
         "class": "CLASS B",
         "type": "LUXURY SEDANS",
         "price": "135000",
@@ -1164,8 +1092,7 @@
         "remix": "0",
         "tuned_aceleration": "43.7",
         "tuned_speed": "80",
-        "tuned_handling": "69.1",
-        "car_img": ""
+        "tuned_handling": "69.1"
     },
     {
         "id": "74",
@@ -1180,13 +1107,12 @@
         "remix": "0",
         "tuned_aceleration": "51",
         "tuned_speed": "87.1",
-        "tuned_handling": "49.2",
-        "car_img": ""
+        "tuned_handling": "49.2"
     },
     {
         "id": "75",
         "name": "NINJA ZX 12R",
-        "brand_id": "21",
+        "brand_id": "22",
         "class": "CLASS A",
         "type": "SPORT BIKES",
         "price": "10999",
@@ -1196,13 +1122,12 @@
         "remix": "0",
         "tuned_aceleration": "73.6",
         "tuned_speed": "100",
-        "tuned_handling": "87.4",
-        "car_img": ""
+        "tuned_handling": "87.4"
     },
     {
         "id": "76",
         "name": "MILLE FACTORY",
-        "brand_id": "22",
+        "brand_id": "23",
         "class": "CLASS A",
         "type": "SPORT BIKES",
         "price": "17899",
@@ -1212,13 +1137,12 @@
         "remix": "0",
         "tuned_aceleration": "90.3",
         "tuned_speed": "99.1",
-        "tuned_handling": "100",
-        "car_img": ""
+        "tuned_handling": "100"
     },
     {
         "id": "77",
         "name": "999R",
-        "brand_id": "19",
+        "brand_id": "20",
         "class": "CLASS A",
         "type": "SPORT BIKES",
         "price": "31495",
@@ -1228,8 +1152,7 @@
         "remix": "0",
         "tuned_aceleration": "87",
         "tuned_speed": "96.4",
-        "tuned_handling": "97.1",
-        "car_img": ""
+        "tuned_handling": "97.1"
     },
     {
         "id": "78",
@@ -1244,13 +1167,12 @@
         "remix": "0",
         "tuned_aceleration": "62",
         "tuned_speed": "88.5",
-        "tuned_handling": "69.5",
-        "car_img": ""
+        "tuned_handling": "69.5"
     },
     {
         "id": "79",
         "name": "98 DIABLO",
-        "brand_id": "23",
+        "brand_id": "24",
         "class": "CLASS A",
         "type": "EXOTICS",
         "price": "138000",
@@ -1260,13 +1182,12 @@
         "remix": "1",
         "tuned_aceleration": "66",
         "tuned_speed": "90.6",
-        "tuned_handling": "79.3",
-        "car_img": ""
+        "tuned_handling": "79.3"
     },
     {
         "id": "80",
         "name": "TURBO COUPE",
-        "brand_id": "20",
+        "brand_id": "21",
         "class": "CLASS A",
         "type": "EXOTICS",
         "price": "140000",
@@ -1276,8 +1197,7 @@
         "remix": "0",
         "tuned_aceleration": "66.1",
         "tuned_speed": "90.6",
-        "tuned_handling": "72.6",
-        "car_img": ""
+        "tuned_handling": "72.6"
     },
     {
         "id": "81",
@@ -1292,13 +1212,12 @@
         "remix": "0",
         "tuned_aceleration": "91.6",
         "tuned_speed": "95.6",
-        "tuned_handling": "91.1",
-        "car_img": ""
+        "tuned_handling": "91.1"
     },
     {
         "id": "82",
         "name": "GALLARDO",
-        "brand_id": "23",
+        "brand_id": "24",
         "class": "CLASS A",
         "type": "EXOTICS",
         "price": "184100",
@@ -1308,13 +1227,12 @@
         "remix": "0",
         "tuned_aceleration": "58.5",
         "tuned_speed": "90.6",
-        "tuned_handling": "79.3",
-        "car_img": ""
+        "tuned_handling": "79.3"
     },
     {
         "id": "83",
         "name": "98 F355",
-        "brand_id": "20",
+        "brand_id": "21",
         "class": "CLASS A",
         "type": "EXOTICS",
         "price": "200000",
@@ -1324,13 +1242,12 @@
         "remix": "1",
         "tuned_aceleration": "76.9",
         "tuned_speed": "94.3",
-        "tuned_handling": "80.6",
-        "car_img": ""
+        "tuned_handling": "80.6"
     },
     {
         "id": "84",
         "name": "95 F1 LM",
-        "brand_id": "24",
+        "brand_id": "25",
         "class": "CLASS A",
         "type": "EXOTICS",
         "price": "250000",
@@ -1340,13 +1257,12 @@
         "remix": "0",
         "tuned_aceleration": "99.9",
         "tuned_speed": "97",
-        "tuned_handling": "89.3",
-        "car_img": ""
+        "tuned_handling": "89.3"
     },
     {
         "id": "85",
         "name": "MURCIELAGO",
-        "brand_id": "23",
+        "brand_id": "24",
         "class": "CLASS A",
         "type": "EXOTICS",
         "price": "297700",
@@ -1356,13 +1272,12 @@
         "remix": "0",
         "tuned_aceleration": "70.1",
         "tuned_speed": "95",
-        "tuned_handling": "86.9",
-        "car_img": ""
+        "tuned_handling": "86.9"
     },
     {
         "id": "86",
         "name": "S7",
-        "brand_id": "18",
+        "brand_id": "19",
         "class": "CLASS A",
         "type": "EXOTICS",
         "price": "375000",
@@ -1372,13 +1287,12 @@
         "remix": "0",
         "tuned_aceleration": "84.5",
         "tuned_speed": "94.3",
-        "tuned_handling": "93.3",
-        "car_img": ""
+        "tuned_handling": "93.3"
     },
     {
         "id": "87",
         "name": "ZONDA C 12 S",
-        "brand_id": "25",
+        "brand_id": "26",
         "class": "CLASS A",
         "type": "EXOTICS",
         "price": "325000",
@@ -1388,13 +1302,12 @@
         "remix": "1",
         "tuned_aceleration": "90.1",
         "tuned_speed": "94.3",
-        "tuned_handling": "91.1",
-        "car_img": ""
+        "tuned_handling": "91.1"
     },
     {
         "id": "88",
         "name": "CLK-GTR",
-        "brand_id": "17",
+        "brand_id": "18",
         "class": "CLASS A",
         "type": "EXOTICS",
         "price": "725000",
@@ -1404,13 +1317,12 @@
         "remix": "0",
         "tuned_aceleration": "75.1",
         "tuned_speed": "97",
-        "tuned_handling": "74.4",
-        "car_img": ""
+        "tuned_handling": "74.4"
     },
     {
         "id": "89",
         "name": "SLR MCLAREN",
-        "brand_id": "17",
+        "brand_id": "18",
         "class": "CLASS A",
         "type": "EXOTICS",
         "price": "452750",
@@ -1420,13 +1332,12 @@
         "remix": "0",
         "tuned_aceleration": "82.6",
         "tuned_speed": "92.9",
-        "tuned_handling": "66.4",
-        "car_img": ""
+        "tuned_handling": "66.4"
     },
     {
         "id": "90",
         "name": "POLICE 1000",
-        "brand_id": "21",
+        "brand_id": "22",
         "class": "CLASS C",
         "type": "SPECIALTY",
         "price": "0",
@@ -1436,8 +1347,7 @@
         "remix": "0",
         "tuned_aceleration": "58.2",
         "tuned_speed": "99.1",
-        "tuned_handling": "87.4",
-        "car_img": ""
+        "tuned_handling": "87.4"
     },
     {
         "id": "91",
@@ -1452,8 +1362,7 @@
         "remix": "0",
         "tuned_aceleration": "32",
         "tuned_speed": "63.7",
-        "tuned_handling": "48.2",
-        "car_img": ""
+        "tuned_handling": "48.2"
     },
     {
         "id": "92",
@@ -1468,8 +1377,7 @@
         "remix": "0",
         "tuned_aceleration": "37.7",
         "tuned_speed": "70.1",
-        "tuned_handling": "54.9",
-        "car_img": ""
+        "tuned_handling": "54.9"
     },
     {
         "id": "93",
@@ -1484,8 +1392,7 @@
         "remix": "0",
         "tuned_aceleration": "44.7",
         "tuned_speed": "76.5",
-        "tuned_handling": "67.4",
-        "car_img": ""
+        "tuned_handling": "67.4"
     },
     {
         "id": "94",
@@ -1500,7 +1407,6 @@
         "remix": "1",
         "tuned_aceleration": "45.7",
         "tuned_speed": "73",
-        "tuned_handling": "69",
-        "car_img": ""
+        "tuned_handling": "69"
     }
 ]
