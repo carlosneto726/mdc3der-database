@@ -49,7 +49,7 @@ card.innerHTML =
     "          <p class='card-text fs-4' align='left'>Manuseio: <span class='fw-bold'>"+formatadorFloat(cars[i].handling)+"</p>" +
     "          <p class='card-text fs-4' align='left'>Manuseio modificado: <span class='fw-bold'>"+formatadorFloat(cars[i].tuned_handling)+"</span></p>" +
     "      </div>" +
-    "      <img class='card-img-bottom rounded' src='../img/cars/"+(i+1)+".WEBP'></img>" +
+    "      <img class='card-img-bottom rounded' src='../img/cars/"+(i+1)+".webp'></img>" +
     "   </div>" +
     "</center>";
 
