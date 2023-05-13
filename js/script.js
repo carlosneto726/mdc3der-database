@@ -33,7 +33,7 @@ function showCars(cars){
 
         element.innerHTML = 
         "<div class='car-card card' style='width: 24rem;'>" +
-        "    <img src='img/cars/"+(cars[i].id)+".WEBP' class='card-img-top rounded-1'>" +
+        "    <img src='img/cars/"+(cars[i].id)+".webp' class='card-img-top rounded-1'>" +
         "    <div class='card-body'>" +
         "        <h4 class='name border-bottom border-secondary card-title fw-bold' align='left'>"+cars[i].name+"</h4>" + 
         "        <span class='type-class fw-bold fs-5'><p class='d-inline-flex border-bottom border-secondary card-text' align='left'>"+cars[i].class+" / "+cars[i].type+"</p></span>" +
