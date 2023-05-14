@@ -34,7 +34,6 @@
 * [![HTML][HTML]][HTML-url]
 * [![CSS][CSS]][CSS-url]
 * [![Javascript][Javascript]][Javascript-url]
-* 
 
 <!-- Ultilização -->
 ## Ultilização
