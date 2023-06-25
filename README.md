@@ -11,7 +11,7 @@
 
   <p align="center">
     <br />
-    <a href="https://carlosneto726.github.io/mdc3der-database.github.io/"><strong>Veja como está</strong></a>
+    <a href="https://mdc3der-database.vercel.app/"><strong>Veja como está</strong></a>
     <br />
     <br />
     <a href="https://github.com/carlosneto726/mdc3der-database.github.io/issues">Reporte um bug</a>
@@ -24,7 +24,7 @@
 <!-- Sobre o projeto -->
 ## Sobre o projeto
 
-[![example][gif]](https://carlosneto726.github.io/mdc3der-database.github.io/)
+[![example][gif]](https://mdc3der-database.vercel.app/)
 
 `carlosneto726`, `mdc3der-database.github.io`, `Midnight Club 3 Databse`, `Site com todos os carros do Midnight Club 3: DUB Edition Remix`
 
