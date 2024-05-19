@@ -11,16 +11,6 @@
 
     <link rel="stylesheet" href="css/style.css">
 
-    <script type="module">
-        import { searchCar } from "./js/script.js";
-        import { orderby } from "./js/script.js";
-        import { switchAttrs } from "./js/script.js";
-        window.searchCar = searchCar;
-        window.orderby = orderby;
-        window.switchAttrs = switchAttrs;
-    </script>
-
-
     <title>Midnight Club 3 Database</title>
 </head>
 <body>
@@ -32,93 +22,11 @@
     </div>
   </nav>
 
-  <img src="img/icons/mdc3database_icon.png" class="position-relative top-0 start-50 translate-middle" style="margin-top: 200px;">
+  <img src="img/icons/mdc3database_icon.png" class="img-fluid position-relative top-0 start-50 translate-middle" style="margin-top: 200px;">
 
 
   <!-- content -->
   
-
-
-  <div class="hstack gap-1">
-    <div class="sidenav z-1 sticky-top hstack gap-3 d-flex container-fluid" style="background-color: #161821;">
-      <div class="align-self-start">
-  
-        <div class="d-flex">
-            <input class="form-control me-2" id="search" type="search" placeholder="Procurar" aria-label="Search">
-            <button class="btn btn-outline-success" type="submit" onclick="searchCar()"><img src="img/icons/search.svg"></button>
-        </div>
-    
-        <br/>
-    
-        <div class="dropdown">
-            <button class="btn btn-secondary dropdown-toggle" id="ordernar-btn" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Ordernar por
-            </button>
-            
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" type="submit" name="padrao" onclick="orderby(this)">Ordem padrão</a></li>
-              <li><a class="dropdown-item" type="submit" name="alfa" onclick="orderby(this)">Ordem alfabética</a></li>
-              <li><a class="dropdown-item" type="submit" name="marca" onclick="orderby(this)">Marca</a></li>
-              <li><a class="dropdown-item" type="submit" name="preco" onclick="orderby(this)">Preço</a></li>
-              <li><a class="dropdown-item" type="submit" name="classe" onclick="orderby(this)">Classe</a></li>
-              <li><a class="dropdown-item" type="submit" name="tipo" onclick="orderby(this)">Tipo</a></li>
-              <li><a class="dropdown-item" type="submit" name="ace_p" onclick="orderby(this)">Aceleração padrão</a></li>
-              <li><a class="dropdown-item" type="submit" name="ace_m" onclick="orderby(this)">Aceleração modificada</a></li>
-              <li><a class="dropdown-item" type="submit" name="vel_p" onclick="orderby(this)">Velocidade máxima padrão</a></li>
-              <li><a class="dropdown-item" type="submit" name="vel_m" onclick="orderby(this)">Velocidade máxima modificada</a></li>
-              <li><a class="dropdown-item" type="submit" name="man_p" onclick="orderby(this)">Manuseio padrão</a></li>
-              <li><a class="dropdown-item" type="submit" name="man_m" onclick="orderby(this)">Manuseio modificado</a></li>
-              <li><a class="dropdown-item" type="submit" name="remix" onclick="orderby(this)">Remix</a><li>  
-            </ul>
-        </div>
-    
-        <br/>
-    
-        Atributos
-
-        <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="classe-tipo">
-          <label class="form-check-label">Classe / Tipo</label>
-        </div>
-        <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="marca">
-          <label class="form-check-label">Marca</label>
-        </div>
-        <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="preco">
-          <label class="form-check-label">Preço</label>
-        </div>
-        <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="aceleracao-padrao">
-          <label class="form-check-label">Aceleração padrão</label>
-        </div>
-        <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="aceleracao-modificada">
-          <label class="form-check-label">Aceleração modificada</label>
-        </div>
-        <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="velocidade-padrao">
-          <label class="form-check-label">Velocidade máxima padrão</label>
-        </div>
-        <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="velocidade-modificada">
-          <label class="form-check-label">Velocidade máxima modificada</label>
-        </div>
-        <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="manuseio-padrao">
-          <label class="form-check-label">Manuseio padrão</label>
-        </div>
-        <div class="form-check form-switch">
-          <input class="form-check-input" onclick="switchAttrs(this)" type="checkbox" role="switch" name="manuseio-modificado">
-          <label class="form-check-label">Manuseio modificado</label>
-        </div>
-  
-      </div>
-    </div>
-    <div class="container" id="container">
-    </div>
-  </div>
-
 
   <footer>
     <div class="z-3 card mt-5">
@@ -130,6 +38,7 @@
     </div>
   </footer>
 
+  <script src="js/main.js" type="module"></script>
     
 </body>
 </html>
